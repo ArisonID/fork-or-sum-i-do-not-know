@@ -1,13 +1,15 @@
 {
     "name": "TheEveningSkies",
     "description": "As if you're staring at the sunset.",
+    "version": "1.4",
+    "color": "#536cd4"
     "authors": [
         {
             "name": "Ari",
             "id": "639959347518242821"
         }
     ],
-    "semanticColors": {
+    "theme_color_map": {
         "HEADER_PRIMARY": [
             "#ffffff"
         ],
@@ -105,7 +107,7 @@
             "#000000"
         ]
     },
-    "rawColors": {
+    "colours": {
         "PRIMARY": "#080D21",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#b8b8b8",
@@ -131,12 +133,12 @@
         "GREEN_345": "#536cd4",
         "BLUE_345": "#536cd4",
         "WHITE_500": "#ffffff"
-       
+    },
+    "unsafe_colors" {
+        "CHAT_GREY" : "#b8b8b8"
     },
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
     "alpha": 0.42
-  },
-    "spec": 2
-}
+  }
