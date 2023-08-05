@@ -79,3 +79,12 @@
    */
   --update-notice-1: none;
 }
+
+@import url(https://seele1306.github.io/Snippets/BetterProfiles/import.css);
+:root {
+    --section-thickness: 2px; /* must be in pixels */
+}
+
+@import url(//dablulite.github.io/css-snippets/UserReimagined/import-ua-top.css);
+
+
