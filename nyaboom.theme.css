@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://cdn.discordapp.com/attachments/919920863720120382/1137263136504815646/Invitation_From_the_Slumbering_Moon.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://cdn.discordapp.com/attachments/919920863720120382/1145688916347850842/wallpaperflare.com_wallpaper_1.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -53,13 +53,13 @@
   /*
    * Gradient variables
    */
-  --gradient-primary: 87, 110, 221; /* DEFAULT: 103,58,183 */
-  --gradient-secondary: 176, 190, 255; /* DEFAULT: 63,81,181 */
+  --gradient-primary: 227, 22, 179; /* DEFAULT: 103,58,183 */
+  --gradient-secondary: 229, 129, 208; /* DEFAULT: 63,81,181 */
   --gradient-direction: 320deg; /* DEFAULT: 320deg */
   /*
    * Tint variables
    */
-  --tint-colour: 87, 110, 221; /* Colour of tint | DEAFULT: 255,51,159 */
+  --tint-colour: 227, 22, 179; /* Colour of tint | DEAFULT: 255,51,159 */
   --tint-brightness: 0; /* Brightness of --tint-colour | 0 - 1 (decimals allowed) | DEFAULT: 0 */
   /*
    * Other variables 
@@ -67,7 +67,7 @@
   --window-padding: 20px; /* Spacing around the Discord window | DEFAULT: 20px */
   --window-roundness: 10px; /* Roundness of Discord | DEFAULT: 10px */
   --scrollbar-colour: rgb(255, 255, 255, 0.05); /* DEFAULT: rgb(255,255,255,0.05) */
-  --link-colour: #576edd; /* DEFAULT: #00b0f4 */
+  --link-colour: #e316b3; /* DEFAULT: #00b0f4 */
   /*
     * Visit https://fonts.google.com and select one to your liking.
     * Now just follow this tutorial: https://imgur.com/a/CNbw7xC
