@@ -1,6 +1,6 @@
 {
-    "name": "TheEveningSkies",
-    "description": "As if you're staring at the sunset.",
+    "name": "🐺",
+    "description": "iyj 😁",
     "authors": [
         {
             "name": "Ari",
@@ -21,10 +21,10 @@
             "#b8b8b8"
         ],
         "TEXT_DANGER": [
-            "#536cd4"
+            "#fb5b00"
         ],
         "TEXT_LINK": [
-            "#536cd4"
+            "#fb5b00"
         ],
         "INTERACTIVE_NORMAL": [
             "#b8b8b8"
@@ -39,46 +39,46 @@
             "#969696"
         ],
         "BACKGROUND_PRIMARY": [
-            "#080D21"
+            "#191E26 "
         ],
         "BACKGROUND_SECONDARY": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_TERTIARY": [
-            "#080D21"
+            "#191E26"
         ],
         "BACKGROUND_ACCENT": [
-            "#080D21"
+            "#191E26"
         ],
         "BACKGROUND_FLOATING": [
-            "#0F152C"
+            "#191E2682"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080D21"
+            "#191E26"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0F152C"
+            "#191E26"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#131D46"
+            "#191E26"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0F152C"
+            "#191E26"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0F152C"
+            "#191E26"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
