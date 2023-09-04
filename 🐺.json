@@ -72,7 +72,7 @@
             "#191E26"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#191E26"
+            "#374254"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#191E26"
@@ -138,5 +138,16 @@
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1148192448464556102/New_Project_25_A45226D.png",
     "alpha": 0.42
   },
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#fb5b00",
+          "StatusMobileOnline": "#fb5b00",
+          "StatusIdle": "#fb5b00",
+          "StatusDND": "#fb5b00",
+          "StatusOffline": "#fb5b00",
+          "StatusOnline": "#fb5b00"
+    }
     "spec": 2
 }
