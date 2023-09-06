@@ -90,7 +90,7 @@
             "#0b0f14"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffffff"
+            "#191e26"
         ],
         "CHANNEL_ICON": [
             "#b8b8b8"
@@ -110,6 +110,7 @@
         "PRIMARY_360": "#b8b8b8",
         "PRIMARY_400": "#fb5b00",
         "PRIMARY_500": "#191E26",
+        "PRIMARY_560": "#191E26",
         "PRIMARY_600": "#0b0f14",
         "PRIMARY_630": "#0b0f14",
         "PRIMARY_660": "#191E26",
