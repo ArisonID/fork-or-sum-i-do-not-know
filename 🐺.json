@@ -53,9 +53,6 @@
         "BACKGROUND_ACCENT": [
             "#191E26"
         ],
-        "BACKGROUND_FLOATING": [
-            "#191E2682"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#0b0f14"
         ],
@@ -130,7 +127,8 @@
         "RED_560": "#fb5b00",
         "GREEN_345": "#fb5b00",
         "BLUE_345": "#fb5b00",
-        "WHITE_500": "#ffffff"
+        "WHITE_500": "#ffffff",
+        "BLACK_500": "#191E2682"
        
     },
   "background": {
