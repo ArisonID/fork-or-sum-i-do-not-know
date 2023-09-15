@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://w.wallhaven.cc/full/x6/wallhaven-x6jeml.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://cdn.discordapp.com/attachments/919920863720120382/1152373258323239024/20230915_054059.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
