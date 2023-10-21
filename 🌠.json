@@ -1,0 +1,154 @@
+{
+    "name": "🌠",
+    "description": "yop",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d4dcfc"
+        ],
+        "HEADER_SECONDARY": [
+            "#aeb5d1"
+        ],
+        "TEXT_NORMAL": [
+            "#d4dcfc"
+        ],
+        "TEXT_MUTED": [
+            "#aeb5d1"
+        ],
+        "TEXT_DANGER": [
+            "#88a9ff"
+        ],
+        "TEXT_LINK": [
+            "#88a9ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#aeb5d1"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#d4dcfc"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#888fa8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#293257"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#344070"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#344070"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#293257"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#293257"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#344070"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#344070"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#344070"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#344070"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#344070"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4e5d9c"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#344070"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#344070"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#293257"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#293257"
+        ],
+        "KEYBOARD": [
+            "#293257"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#d4dcfc"
+        ],
+        "CHANNEL_ICON": [
+            "#d4dcfc"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#d4dcfc8"
+        ],
+        "CHAT_BACKGROUND": [
+            "#293257"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#293257",
+        "PRIMARY_100": "#d4dcfc",
+        "PRIMARY_200": "#aeb5d1",
+        "PRIMARY_230": "#88a9ff",
+        "PRIMARY_300": "#88a9ff",
+        "PRIMARY_360": "#aeb5d1",
+        "PRIMARY_400": "#88a9ff",
+        "PRIMARY_500": "#344070",
+        "PRIMARY_600": "#344070",
+        "PRIMARY_630": "#293257",
+        "PRIMARY_660": "#293257",
+        "PRIMARY_700": "#293257",
+        "PRIMARY_800": "#293257",
+        "PRIMARY_900": "#293257",
+        "YELLOW_300": "#88a9ff",
+        "BRAND_260": "#99b3f7",
+        "BRAND_360": "#88a9ff",
+        "BRAND_500": "#88a9ff",
+        "BRAND_560": "#88a9ff",
+        "GREEN_360": "#88a9ff",
+        "RED_400": "#88a9ff",
+        "ORANGE_345": "#88a9ff",
+        "RED_560": "#88a9ff",
+        "GREEN_345": "#88a9ff",
+        "BLUE_345": "#88a9ff",
+        "WHITE_500": "#d4dcfc"
+       
+    },
+    
+    "background": {
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/main/New%20Project%2035%20%5B61C68C2%5D.png",
+        "alpha": 0.49
+    },
+
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#88a9ff",
+          "StatusMobileOnline": "#88a9ff",
+          "StatusIdle": "#88a9ff",
+          "StatusDND": "#88a9ff",
+          "StatusOffline": "#88a9ff",
+          "StatusOnline": "#88a9ff"
+          }
+    },
+    "spec": 2
+}
