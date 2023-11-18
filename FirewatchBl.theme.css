@@ -72,8 +72,7 @@
     * Visit https://fonts.google.com and select one to your liking.
     * Now just follow this tutorial: https://imgur.com/a/CNbw7xC
     */
-  --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  --font: "gg sans";
   /*
    * ~~DO NOT TOUCH~~
    * Removing this will display an annoying update banner.
