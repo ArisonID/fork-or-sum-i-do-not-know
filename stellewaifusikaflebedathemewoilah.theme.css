@@ -31,7 +31,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor2: #292929; /* Theme's color 2 */
 
   /* CUSTOM FONT */
-  --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  --customFont: 'gg sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
   
   /* HOME BUTTON */
   --homeImage: url('https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/main/FwvLEl-aIAAdPSfa.jpeg');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
