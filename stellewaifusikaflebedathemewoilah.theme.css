@@ -19,6 +19,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 @import url("https://xcruxiex.github.io/themes/themes-cores/neutron8.css");
 @import url("https://xcruxiex.github.io/themes/core/badges.css");
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
 /*##########################################################################
 
                  CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
@@ -29,6 +30,9 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor1: #858585; /* Theme's color 1 */
   --themeColor2: #292929; /* Theme's color 2 */
 
+  /* CUSTOM FONT */
+  --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  
   /* HOME BUTTON */
   --homeImage: url('https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/main/FwvLEl-aIAAdPSfa.jpeg');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
@@ -40,7 +44,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
   --backgroundBlur: 0px; /* Set to 0 to remove blur | Set to 10px for average blur */
-  --backgroundOpacity: .65; /* 0 is transparent */
+  --backgroundOpacity: .75; /* 0 is transparent */
 
   /* CODE BLOCKS */
   --backgroundCode: rgba(0,0,0,.5);
