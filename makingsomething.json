@@ -14,6 +14,9 @@
     "BACKGROUND_ACCENT": [
       "#121212"
     ],
+    "BACKGROUND_BRAND": [
+      "#27ba49" 
+    ],
     "BACKGROUND_SECONDARY": [
       "#000000"
     ],
@@ -90,10 +93,10 @@
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#009AFF"
+      "#4bde72"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#6d82ff"
+      "#5eb873"
     ],
     "TEXT_LOW_CONTRAST": [
       "#FFFFFF"
@@ -165,7 +168,7 @@
       "#FFFFFF"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#36393E"
+      "#27ba49"
     ],
     "INTERACTIVE_MUTED": [
       "#121212"
@@ -174,10 +177,10 @@
       "#000000"
     ],
     "MENTION_BADGE": [
-      "#ff6161"
+      "#1b8c35"
     ],
     "REDESIGN_MENTION_BADGE": [
-      "#ff6161"
+      "#1b8c35"
     ]
   },
   "rawColors": {
@@ -216,7 +219,7 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#009AFF",
+    "RED_430": "#c91e40",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
@@ -235,9 +238,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/IMG_20260516_225117_540~2.jpg",
+    "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/0d3141cbe246e9187c8761e88d2391c5a91e7dfca.jpg",
     "blur": 0.5,
-    "alpha": 0.30,
+    "alpha": 0.35,
     "size": "cover",
     "position": "center"
   },
