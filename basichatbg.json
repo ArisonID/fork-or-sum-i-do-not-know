@@ -1,0 +1,24 @@
+{
+  "name": "true 2",
+  "description": "Aldis burger cempaka putih rotinya lembut daging nya juicy lucy mahalini rizky febian billi jo gallagher bisa beli online",
+  "authors": [
+    {
+      "name": "Drumfu.",
+      "id": "639959347518242821"
+    }
+  ],
+  "background": {
+    "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/IMG_20260516_225117_540~2.jpg",
+    "blur": 0.5,
+    "alpha": 0.35,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "plumpy"
+  },
+  "spec": 2,
+  "createdAt": "2025-10-05",
+  "source": "local"
+}
